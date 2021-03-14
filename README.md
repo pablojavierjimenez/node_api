@@ -54,7 +54,7 @@ then you can see a new `package.json` file on your project like this:
 :~$ npm install express cors body-parser bcryptjs jsonwebtoken
 
 # Node DEV-dependencies
-:~$ npm -D nodemon jest
+:~$ npm i -D nodemon jest
 ```
 
 
