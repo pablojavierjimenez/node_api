@@ -64,3 +64,33 @@ then you can see a new `package.json` file on your project like this:
 # for v1
 :~$ npm run api:v1
 ```
+---------------
+
+referencias: para seguirlo:
+
+Node.JS REST API Auth using JWTs - Tutorial:
+
+https://tutorialedge.net/nodejs/nodejs-jwt-authentication-tutorial/
+
+https://www.youtube.com/watch?v=0g0Of8jlhN8&ab_channel=TutorialEdge
+
+Authentication - Jason Web Tokens (JWT) - BCrypt:
+
+https://www.youtube.com/watch?v=7Rrz93pAv94&ab_channel=DataStream
+
+Jest Tutorial | Testing NodeJS applications with JEST
+
+https://www.youtube.com/watch?v=8gHEv5iNRKk&ab_channel=ProgrammingKnowledge
+
+Access Token and Refresh Token with Node.js
+
+https://medium.com/@sugandhasaxena1212/access-token-and-refresh-token-with-node-js-a501e1cc034b
+
+
+
+
+
+----------
+Ecommerce App - Angular 9, NodeJs And MySQL
+
+https://www.youtube.com/playlist?list=PLsjmv9aDmNDAN5adZxbGTlQHlgU2je7KE
