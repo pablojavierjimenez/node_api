@@ -8,8 +8,8 @@ i try to use common things like: JWT, Redis, Bcrypt,
 -----
 
 ## Steps: 
-1. [Init Project](#1-Init-Project)
-1. [Init Project](#2-Install-dependencies)
+1. [Init Project](#1--Init-Project)
+1. [Init Project](#2--Install-dependencies)
 
 -----
 
@@ -51,7 +51,7 @@ then you can see a new `package.json` file on your project like this:
 
 ```bash
 # Node dependencies
-:~$ npm install express cors body-parser bcryptjs jsonwebtoken
+:~$ npm install express cors body-parser bcryptjs jsonwebtoken compression express-session
 
 # Node DEV-dependencies
 :~$ npm i -D nodemon jest
